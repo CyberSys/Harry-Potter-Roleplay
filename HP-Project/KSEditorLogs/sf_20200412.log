@@ -29,3 +29,7 @@ UnityEditor.LightingWindow.OnDisable () (at <887a438259064e89922419bc7b8810ab>:0
 2020-04-12 22:00:33.1857 [DEBUG] Connecting
 2020-04-12 22:00:33.2057 [DEBUG] Connecting to room (121978:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
 2020-04-12 22:01:33.5278 [DEBUG] Sent C:/Users/tsm02/Documents/Unity Projects/Harry-Potter-Roleplay/HP-Project/KSEditorLogs/SessionLogs/session.121978-637223256332737410.log
+2020-04-12 22:54:54.8454 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:58:15.4918 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:58:15.7315 [DEBUG] Play mode: True, sync in play mode: False
+2020-04-12 23:07:24.6668 [DEBUG] Play mode: False
