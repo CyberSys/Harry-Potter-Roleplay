@@ -236,6 +236,7 @@ public class PlayerController : MonoBehaviour
                         wandAnim.SetTrigger("CastSpell");
                         nextFire = Time.time + fireRate;
                         var tempSpell = Instantiate(spell, spellTransform);
+                        Debug.Log("Casting " + spell.name);
                     }
                 }
             }

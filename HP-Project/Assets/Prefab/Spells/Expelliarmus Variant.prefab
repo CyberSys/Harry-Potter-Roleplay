@@ -102,7 +102,7 @@ PrefabInstance:
     - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
         type: 3}
       propertyPath: m_Color.g
-      value: 0.14117648
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
         type: 3}
@@ -127,6 +127,26 @@ PrefabInstance:
     - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
         type: 3}
       propertyPath: m_UseBoundingSphereOverride
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
+        type: 3}
+      propertyPath: m_UseColorTemperature
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
+        type: 3}
+      propertyPath: m_ColorTemperature
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
+        type: 3}
+      propertyPath: m_BounceIntensity
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4709105847562545327, guid: 0ccf906ea5271654abfdc765bd370838,

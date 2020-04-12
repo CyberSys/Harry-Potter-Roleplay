@@ -29,3 +29,75 @@ UnityEditor.LightingWindow.OnDisable () (at <887a438259064e89922419bc7b8810ab>:0
 2020-04-12 22:00:33.1857 [DEBUG] Connecting
 2020-04-12 22:00:33.2057 [DEBUG] Connecting to room (121978:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
 2020-04-12 22:01:33.5278 [DEBUG] Sent C:/Users/tsm02/Documents/Unity Projects/Harry-Potter-Roleplay/HP-Project/KSEditorLogs/SessionLogs/session.121978-637223256332737410.log
+2020-04-12 22:08:47.9186 [ERROR] ArgumentException: The scene is invalid.
+UnityEngine.SceneManagement.Scene.GetRootGameObjects (System.Collections.Generic.List`1[T] rootGameObjects) (at <58a34b0a618d424bb5fc18bb9bcdac20>:0)
+UnityEngine.SceneManagement.Scene.GetRootGameObjects () (at <58a34b0a618d424bb5fc18bb9bcdac20>:0)
+UnityEditor.Rendering.HighDefinition.HDLightingWindowEnvironmentSectionEditor.GetStaticLightingSkyForScene (UnityEngine.SceneManagement.Scene scene) (at Library/PackageCache/com.unity.render-pipelines.high-definition@7.3.1/Editor/Sky/HDLightingWindowEnvironmentSection.cs:95)
+UnityEditor.Rendering.HighDefinition.HDLightingWindowEnvironmentSectionEditor.OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@7.3.1/Editor/Sky/HDLightingWindowEnvironmentSection.cs:78)
+UnityEditor.LightingWindowLightingTab.get_environmentEditor () (at <887a438259064e89922419bc7b8810ab>:0)
+UnityEditor.LightingWindowLightingTab.OnDisable () (at <887a438259064e89922419bc7b8810ab>:0)
+UnityEditor.LightingWindow.OnDisable () (at <887a438259064e89922419bc7b8810ab>:0)
+
+2020-04-12 22:34:15.6990 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:36:15.5783 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:36:15.7934 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:36:54.6723 [DEBUG] Play mode: False
+2020-04-12 22:37:56.5522 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:37:56.7616 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:38:14.0589 [DEBUG] Play mode: False
+2020-04-12 22:38:42.9431 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:38:43.1471 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:39:32.6760 [DEBUG] Play mode: False
+2020-04-12 22:40:38.6574 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:40:38.8269 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:41:01.6099 [DEBUG] Play mode: False
+2020-04-12 22:41:38.2931 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:41:42.5544 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:41:42.7280 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:44:25.0621 [DEBUG] Play mode: False
+2020-04-12 22:46:36.9981 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:46:37.2006 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:47:27.7526 [DEBUG] Play mode: False
+2020-04-12 22:48:21.1726 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:48:21.4219 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:49:09.4953 [DEBUG] Play mode: False
+2020-04-12 22:49:57.6789 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:49:57.8764 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:51:34.6649 [DEBUG] Play mode: False
+2020-04-12 22:53:46.6182 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:53:50.8055 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:53:50.9805 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:53:59.9287 [DEBUG] Play mode: False
+2020-04-12 22:55:04.9889 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:55:05.1953 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:55:11.3388 [DEBUG] Play mode: False
+2020-04-12 22:55:17.6884 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:55:17.8984 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:55:34.9405 [DEBUG] Play mode: False
+2020-04-12 22:55:38.3830 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:55:38.5851 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:55:47.6337 [DEBUG] Play mode: False
+2020-04-12 22:56:32.8383 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:56:33.0356 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:56:48.2444 [DEBUG] Play mode: False
+2020-04-12 22:57:02.8899 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:57:03.0803 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 22:57:10.0849 [DEBUG] Play mode: False
+2020-04-12 23:01:50.7412 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 23:01:50.9772 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 23:02:14.2056 [DEBUG] Play mode: False
+2020-04-12 23:06:52.8650 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 23:06:53.0894 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 23:07:02.1528 [DEBUG] Play mode: False
+2020-04-12 23:07:11.1022 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 23:07:11.3176 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 23:07:16.7423 [DEBUG] Play mode: False
+2020-04-12 23:07:58.9954 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 23:07:59.2078 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 23:08:22.0542 [DEBUG] Play mode: False
+2020-04-12 23:09:12.8343 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 23:09:13.0373 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 23:09:15.2903 [DEBUG] Play mode: False
+2020-04-12 23:09:21.0105 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 23:09:21.2179 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 23:12:52.7170 [DEBUG] Play mode: False
