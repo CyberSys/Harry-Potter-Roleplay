@@ -99,6 +99,21 @@ PrefabInstance:
       propertyPath: m_Intensity
       value: 159154.94
       objectReference: {fileID: 0}
+    - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
+        type: 3}
+      propertyPath: m_UseColorTemperature
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
+        type: 3}
+      propertyPath: m_ShadowRadius
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4709105847562545326, guid: 0ccf906ea5271654abfdc765bd370838,
+        type: 3}
+      propertyPath: m_Range
+      value: 8.074821
+      objectReference: {fileID: 0}
     - target: {fileID: 4709105847562545327, guid: 0ccf906ea5271654abfdc765bd370838,
         type: 3}
       propertyPath: displayLightIntensity
@@ -122,6 +137,11 @@ PrefabInstance:
     - target: {fileID: 4709105847562545327, guid: 0ccf906ea5271654abfdc765bd370838,
         type: 3}
       propertyPath: m_ShadowResolution.m_Level
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4709105847562545327, guid: 0ccf906ea5271654abfdc765bd370838,
+        type: 3}
+      propertyPath: m_ShapeRadius
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:

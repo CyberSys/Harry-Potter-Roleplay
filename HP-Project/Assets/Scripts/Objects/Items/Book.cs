@@ -19,7 +19,7 @@ public class Book : Item
         base.Use(player);
         if(type == Type.Spell)
         {
-            Debug.Log("Used" + spell.name);
+            Debug.Log("Used " + spell.name + " book");
             var spellList = player.GetComponent<UnlockedSpells>();
             for (int i = 0; i < spellList.unlockedSpells.Count; i++)
             {
