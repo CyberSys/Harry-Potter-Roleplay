@@ -1,0 +1,31 @@
+2020-04-12 20:59:29.3735 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 20:59:29.3894 [INFO] Setting define symbol SCENE_FUSION
+2020-04-12 20:59:42.9187 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 20:59:56.8665 [DEBUG] Invalid token sent as part of a web request token. Token = D0PhAAPdAj6Y3zdeATgwI1iwUhmikxnIgtZPAY0D4rb9MycgObC0HmcUj654bPmNh3q6C3JZU5XEN3CQOpWU6bg3mRUc6NkaRMwq5mTDRlwxYP3UCAH816noFMaHYmERZucKaCCgoqmtuR3SSRM3jyGt1sqInX1fMysxnCsqa9iyhzzjKS8CNRHG2HGZeqeznbpHSX6mYAszEen0ItjhPsWxt54foJmAagtIR1s5YQ62rinRjEnBP8SsQ43BrnF
+2020-04-12 21:00:07.0672 [INFO] Launching Session: Playerl_Block_Scene
+2020-04-12 21:00:07.9898 [DEBUG] Connecting
+2020-04-12 21:00:08.0067 [DEBUG] Connecting to room (121976:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-04-12 21:00:40.7646 [DEBUG] Sent C:/Users/tsm02/Documents/Unity Projects/HarryPotterRoleplay/KSEditorLogs/SessionLogs/session.121976-637223220080837251.log
+2020-04-12 21:09:26.7809 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 21:12:45.7542 [ERROR] ArgumentException: The scene is invalid.
+UnityEngine.SceneManagement.Scene.GetRootGameObjects (System.Collections.Generic.List`1[T] rootGameObjects) (at <58a34b0a618d424bb5fc18bb9bcdac20>:0)
+UnityEngine.SceneManagement.Scene.GetRootGameObjects () (at <58a34b0a618d424bb5fc18bb9bcdac20>:0)
+UnityEditor.Rendering.HighDefinition.HDLightingWindowEnvironmentSectionEditor.GetStaticLightingSkyForScene (UnityEngine.SceneManagement.Scene scene) (at Library/PackageCache/com.unity.render-pipelines.high-definition@7.1.8/Editor/Sky/HDLightingWindowEnvironmentSection.cs:97)
+UnityEditor.Rendering.HighDefinition.HDLightingWindowEnvironmentSectionEditor.OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@7.1.8/Editor/Sky/HDLightingWindowEnvironmentSection.cs:80)
+UnityEditor.LightingWindowLightingTab.get_environmentEditor () (at <887a438259064e89922419bc7b8810ab>:0)
+UnityEditor.LightingWindowLightingTab.OnDisable () (at <887a438259064e89922419bc7b8810ab>:0)
+UnityEditor.LightingWindow.OnDisable () (at <887a438259064e89922419bc7b8810ab>:0)
+
+2020-04-12 21:30:57.8627 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 21:35:50.2124 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 21:46:04.6656 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 21:52:07.4016 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 21:53:31.3340 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 21:53:31.5523 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-12 21:53:54.2397 [DEBUG] Play mode: False
+2020-04-12 21:55:06.0219 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 21:58:28.0848 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-12 22:00:32.2466 [INFO] Launching Session: Playerl_Block_Scene
+2020-04-12 22:00:33.1857 [DEBUG] Connecting
+2020-04-12 22:00:33.2057 [DEBUG] Connecting to room (121978:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2020-04-12 22:01:33.5278 [DEBUG] Sent C:/Users/tsm02/Documents/Unity Projects/Harry-Potter-Roleplay/HP-Project/KSEditorLogs/SessionLogs/session.121978-637223256332737410.log

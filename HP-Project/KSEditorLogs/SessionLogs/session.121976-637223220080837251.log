@@ -1,0 +1,31 @@
+2020-04-12 21:00:08.5654 [DEBUG] Validating model...
+2020-04-12 21:00:08.8038 [DEBUG] Model validated
+2020-04-12 21:00:08.8048 [DEBUG] Authenticating with server...
+2020-04-12 21:00:09.4073 [DEBUG] Connected to room. (121976:SceneFusion:SceneFusion)
+2020-04-12 21:00:09.4123 [INFO] Connected to server.
+2020-04-12 21:00:09.4123 [DEBUG] OS : Microsoft Windows NT 10.0.18362.0
+2020-04-12 21:00:09.4123 [DEBUG] Unity Version : 2019.3.5f1
+2020-04-12 21:00:09.4133 [DEBUG] Pro License : False
+2020-04-12 21:00:09.4133 [DEBUG] Platform : WindowsEditor
+2020-04-12 21:00:09.4203 [DEBUG] Build Target : StandaloneWindows
+2020-04-12 21:00:09.4203 [DEBUG] Scene Fusion version : 1.8.7
+2020-04-12 21:00:09.4203 [DEBUG] Scene Fusion client build : 0
+2020-04-12 21:00:09.4203 [DEBUG] User : jsmar34@gmail.com
+2020-04-12 21:00:09.4203 [DEBUG] Waiting for server response
+2020-04-12 21:00:09.5210 [DEBUG] Tier: Scene Fusion Free, Permissions: 00000200
+2020-04-12 21:00:09.5210 [DEBUG] User Permissions: FFFFFFFF
+2020-04-12 21:00:10.0477 [DEBUG] No stand-in for UnityEngine.MovieTexture
+2020-04-12 21:00:10.0477 [DEBUG] No stand-in for UnityEngine.Experimental.Rendering.RayTracingShader
+2020-04-12 21:00:10.0477 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2020-04-12 21:00:10.0477 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2020-04-12 21:00:10.0477 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2020-04-12 21:00:10.0477 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2020-04-12 21:00:10.0477 [DEBUG] No stand-in for UnityEngine.VFX.VisualEffectAsset
+2020-04-12 21:00:10.0856 [WARNING] Cannot sync 'Skybox/Cubemap' (Material) because it is not in Unity's asset database.
+2020-04-12 21:00:19.1061 [DEBUG] Uploading scene 'Playerl_Block_Scene'
+2020-04-12 21:00:19.5237 [DEBUG] Compressing scene data
+2020-04-12 21:00:19.9486 [DEBUG] Spawn request. (Objects: 305)
+2020-04-12 21:00:20.5426 [DEBUG] Loading complete
+2020-04-12 21:00:40.7197 [DEBUG] Disconnecting from room (121976:SceneFusion:SceneFusion)
+2020-04-12 21:00:40.7227 [INFO] Disconnected from server.
+2020-04-12 21:00:40.7237 [DEBUG] Disconnect. (Duration: 31)
