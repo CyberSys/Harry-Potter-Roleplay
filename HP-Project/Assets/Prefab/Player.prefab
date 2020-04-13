@@ -236,14 +236,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentSpeed: 0
-  speed: 5
+  speed: 6
   runSpeed: 8
   minSlopeAngle: 15
   maxSlopeAngle: 48
-  slopeRaiser: 8
+  slopeRaiser: 10
   slopeTopDistance: 10
-  movementDrag: 0.7
-  dragStopper: 1.9
+  movementDrag: 1
+  dragStopper: 2
   jumpForce: 250
   jumpDrag: 0.495
   spellTransform: {fileID: 4389676663012268052}
@@ -339,7 +339,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcebdea257843ab44937fb51527d83ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerName: default_name
   playerHouse: 0
   playerYear: 3
 --- !u!114 &2144355246

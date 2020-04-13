@@ -24,7 +24,7 @@ public class InventoryManager : MonoBehaviour
     public List<Spell> hotbarSpells;
 
     [SerializeField]
-    private DisplayWarning displayText;
+    private DisplayWarning displayText = null;
 
     public int space = 24;
     public List<Item> items = new List<Item>();

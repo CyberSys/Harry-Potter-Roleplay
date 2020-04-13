@@ -215,18 +215,6 @@ Transform:
   m_Father: {fileID: 1172078705}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 30.53, z: 0}
---- !u!114 &7387116 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5771453132569249542, guid: eef82206a5f1f2044ab43a89d46f5fa9,
-    type: 3}
-  m_PrefabInstance: {fileID: 1682327844}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &28283017 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6639445124040949185, guid: 7a3472d831d79aa459f38e2a34089912,
@@ -4147,18 +4135,6 @@ MonoBehaviour:
   - {fileID: 1156508740}
   - {fileID: 1200549568}
   - {fileID: 1793386074}
---- !u!114 &794084571 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5771453132569249542, guid: eef82206a5f1f2044ab43a89d46f5fa9,
-    type: 3}
-  m_PrefabInstance: {fileID: 2054442304}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &835705050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5241,7 +5217,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1045540989
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5685,7 +5661,7 @@ PrefabInstance:
         type: 3}
       propertyPath: interactSpell
       value: 
-      objectReference: {fileID: 2103463024}
+      objectReference: {fileID: 0}
     - target: {fileID: 778439774399923783, guid: eef82206a5f1f2044ab43a89d46f5fa9,
         type: 3}
       propertyPath: assignPrompt
@@ -5856,7 +5832,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.14509805, g: 0.14509805, b: 0.14509805, a: 0.98039216}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -6340,7 +6316,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1181820217
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9145,7 +9121,7 @@ Transform:
   m_GameObject: {fileID: 1559829175}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.9444562, y: 0.93788254, z: 1.6399958}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 0.33263, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
@@ -10324,7 +10300,7 @@ PrefabInstance:
         type: 3}
       propertyPath: interactSpell
       value: 
-      objectReference: {fileID: 2103463024}
+      objectReference: {fileID: 0}
     - target: {fileID: 778439774399923783, guid: eef82206a5f1f2044ab43a89d46f5fa9,
         type: 3}
       propertyPath: assignPrompt
@@ -11680,18 +11656,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inventory: {fileID: 971559608}
   controller: {fileID: 1302563938}
---- !u!114 &1920332682 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5771453132569249542, guid: eef82206a5f1f2044ab43a89d46f5fa9,
-    type: 3}
-  m_PrefabInstance: {fileID: 1104396958}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1936381106
 GameObject:
   m_ObjectHideFlags: 0
@@ -12072,7 +12036,7 @@ PrefabInstance:
         type: 3}
       propertyPath: interactSpell
       value: 
-      objectReference: {fileID: 2103463024}
+      objectReference: {fileID: 0}
     - target: {fileID: 778439774399923783, guid: eef82206a5f1f2044ab43a89d46f5fa9,
         type: 3}
       propertyPath: assignPrompt
@@ -12342,7 +12306,6 @@ GameObject:
   - component: {fileID: 2103463023}
   - component: {fileID: 2103463021}
   - component: {fileID: 2103463020}
-  - component: {fileID: 2103463024}
   m_Layer: 5
   m_Name: SpellListContent
   m_TagString: Untagged
@@ -12420,24 +12383,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2103463018}
   m_CullTransparentMesh: 0
---- !u!114 &2103463024
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2103463018}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41fbef6397afacd4eaaff1c59c8b5be0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  spellList: {fileID: 2144355244}
-  learnButtons:
-  - {fileID: 376470812}
-  - {fileID: 794084571}
-  - {fileID: 1920332682}
-  - {fileID: 7387116}
 --- !u!1001 &2113707689
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13174,7 +13119,7 @@ PrefabInstance:
         type: 3}
       propertyPath: interactSpell
       value: 
-      objectReference: {fileID: 2103463024}
+      objectReference: {fileID: 0}
     - target: {fileID: 778439774399923783, guid: eef82206a5f1f2044ab43a89d46f5fa9,
         type: 3}
       propertyPath: assignPrompt
@@ -13319,7 +13264,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 2103463024}
+      objectReference: {fileID: 0}
     - target: {fileID: 5771453132569249542, guid: eef82206a5f1f2044ab43a89d46f5fa9,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode

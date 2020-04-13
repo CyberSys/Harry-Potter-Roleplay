@@ -15,12 +15,24 @@ public class InventorySpellDisplay : MonoBehaviour
     public Button assignButton;
     public SpellInteraction interactSpell;
     public bool learnt = false;
+    public bool learnable = false;
     public bool assigned = false;
     public int assignIndex;
     public GameObject assignPrompt;
     public Button assignPromptButton;
     public UnlockedSpells spellList;
     public AssignSpell assignSpell;
+    KeyCode[] keyCodes = {
+        KeyCode.Alpha1,
+        KeyCode.Alpha2,
+        KeyCode.Alpha3,
+        KeyCode.Alpha4,
+        KeyCode.Alpha5,
+        KeyCode.Alpha6,
+        KeyCode.Alpha7,
+        KeyCode.Alpha8,
+        KeyCode.Alpha9,
+    };
 
     private void Awake()
     {
@@ -42,6 +54,34 @@ public class InventorySpellDisplay : MonoBehaviour
         icon.sprite = spell.image;
     }
 
+    private void Update()
+    {
+        if (learnButton != null)
+        {
+            if (learnable)
+            {
+                learnButton.interactable = true;
+            }
+            else if (learnt)
+            {
+                learnButton.interactable = false;
+                learnable = false;
+            }
+
+        }
+
+        //loop through player's unlocked spells
+        for (int x = 0; x < spellList.unlockedSpells.Count; x++)
+        {
+            if(spell == spellList.unlockedSpells[x])
+            {
+                //enable learn button for this spell in the current spell slot index
+                learnable = true;
+                break;
+            }
+        }
+    }
+
     void Learn()
     {
         //inform the script that the current spell has been learnt
@@ -56,20 +96,12 @@ public class InventorySpellDisplay : MonoBehaviour
     
     void AssignPopup()
     {
-        //if the spell is not currently assigned
-        if (!assigned)
-        {
-            //show prompt to assign spell
-            assignPrompt.SetActive(true);
-            //button pressed
-            assignPromptButton.onClick.AddListener(() => assignSpell.SpellAssign(spell));
-                //get number input to read index to assign spell to
-                    //unassign any spell in slot
-                    //assign spell to slot
-                //update hotbar
-            //close prompt
-            assigned = true;
-        }
+        //show prompt to assign spell
+        assignPrompt.SetActive(true);
+        //wait for input
+        //get number key pressed
+        //assign spell to hotbar index of key pressed
+
     }
 
 
@@ -78,6 +110,7 @@ public class InventorySpellDisplay : MonoBehaviour
     public void LearnSpell(Spell spell)
     {
         spellList.learntSpells.Add(spell);
+        Destroy(learnButton.gameObject);
         assignButton.interactable = true;
     }
 }
