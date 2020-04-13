@@ -324,7 +324,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 28f470915648c6b43a0c25885811cd8f, type: 2}
   - {fileID: 11400000, guid: 28f470915648c6b43a0c25885811cd8f, type: 2}
   - {fileID: 11400000, guid: 28f470915648c6b43a0c25885811cd8f, type: 2}
-  warning: {fileID: 0}
+  displayText: {fileID: 0}
   space: 24
   items: []
 --- !u!114 &5687213192177117647
@@ -358,7 +358,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 28f470915648c6b43a0c25885811cd8f, type: 2}
   learntSpells:
   - {fileID: 11400000, guid: 28f470915648c6b43a0c25885811cd8f, type: 2}
-  assignedSpells: []
 --- !u!1 &7745025993905447577
 GameObject:
   m_ObjectHideFlags: 0

@@ -6,7 +6,6 @@ public class UnlockedSpells : MonoBehaviour
 {
     public List<Spell> unlockedSpells;
     public List<Spell> learntSpells;
-    public List<GameObject> assignedSpells;
 
     public void AddSpell(Spell spell)
     {

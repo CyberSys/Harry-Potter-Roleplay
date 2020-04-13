@@ -24,7 +24,7 @@ public class InventoryManager : MonoBehaviour
     public List<Spell> hotbarSpells;
 
     [SerializeField]
-    private DisplayWarning warning;
+    private DisplayWarning displayText;
 
     public int space = 24;
     public List<Item> items = new List<Item>();
@@ -55,7 +55,7 @@ public class InventoryManager : MonoBehaviour
         {
             if (item == items[i])
             {
-                warning.DisplayText("You already have " + item.name, 2f);
+                displayText.DisplayText("You already have " + item.name, 2f);
                 Debug.Log("You already have " + item.name);
                 return false;
             }

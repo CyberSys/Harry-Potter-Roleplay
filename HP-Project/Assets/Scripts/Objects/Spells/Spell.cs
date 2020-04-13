@@ -27,7 +27,6 @@ public class Spell : ScriptableObject
 
     [Header("Requirements")]
     public int requiredYear;
-    public bool bookObtained;
 
     public virtual void Cast()
     {

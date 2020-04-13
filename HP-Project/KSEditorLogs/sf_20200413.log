@@ -1,3 +1,213 @@
 2020-04-13 12:19:03.1182 [DEBUG] Scene Fusion version 1.8.7-0
 2020-04-13 12:27:44.2918 [DEBUG] Scene Fusion version 1.8.7-0
 2020-04-13 12:29:01.0898 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:30:20.0346 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:32:35.0543 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:32:35.2422 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:35:07.2832 [DEBUG] Play mode: False
+2020-04-13 12:39:40.1401 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:39:40.3785 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:39:56.0553 [DEBUG] Play mode: False
+2020-04-13 12:40:29.1708 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:40:29.4115 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:40:45.4978 [DEBUG] Play mode: False
+2020-04-13 12:40:48.9397 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:40:49.1871 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:40:52.6407 [DEBUG] Play mode: False
+2020-04-13 12:41:00.6720 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:41:00.8032 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:42:01.8727 [DEBUG] Play mode: False
+2020-04-13 12:42:57.5975 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:42:57.8030 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:43:01.3173 [DEBUG] Play mode: False
+2020-04-13 12:43:04.4347 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:43:04.5752 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:43:13.2733 [DEBUG] Play mode: False
+2020-04-13 12:43:16.4966 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:43:16.7499 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:43:54.9740 [DEBUG] Play mode: False
+2020-04-13 12:45:36.6579 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:45:36.9302 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:45:44.7065 [DEBUG] Play mode: False
+2020-04-13 12:47:07.3395 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:47:07.6263 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:47:20.2354 [DEBUG] Play mode: False
+2020-04-13 12:47:49.3395 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:47:49.7095 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:48:21.2318 [DEBUG] Play mode: False
+2020-04-13 12:52:09.8655 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:52:10.1408 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:53:44.4328 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:53:49.1397 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:54:03.8763 [DEBUG] Play mode: False
+2020-04-13 12:54:07.5866 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:54:07.8558 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:54:58.0761 [DEBUG] Play mode: False
+2020-04-13 12:57:06.7796 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:57:10.8917 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:57:11.1445 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:57:21.6477 [DEBUG] Play mode: False
+2020-04-13 12:58:29.4389 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:59:19.1953 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:59:25.0087 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:59:25.2401 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 12:59:31.7584 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+SpellInteraction.Update () (at Assets/Scripts/Player/Inventory/SpellInteraction.cs:38)
+
+2020-04-13 12:59:35.6056 [DEBUG] Play mode: False
+2020-04-13 12:59:47.3123 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 12:59:47.5796 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 13:00:14.9230 [DEBUG] Play mode: False
+2020-04-13 13:00:28.2499 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:00:44.2741 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:00:44.5340 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 13:02:39.8335 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+InventoryManager.AddItem (Item item) (at Assets/Scripts/Player/Inventory/InventoryManager.cs:58)
+CollectItem.Pickup () (at Assets/Scripts/Objects/Items/CollectItem.cs:18)
+CollectItem.InteractedWith () (at Assets/Scripts/Objects/Items/CollectItem.cs:12)
+PlayerController.Interact () (at Assets/Scripts/Player/PlayerController.cs:218)
+PlayerController.FixedUpdate () (at Assets/Scripts/Player/PlayerController.cs:90)
+
+2020-04-13 13:02:42.8403 [DEBUG] Play mode: False
+2020-04-13 13:03:19.7470 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:03:20.0342 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 13:03:50.5492 [DEBUG] Play mode: False
+2020-04-13 13:06:27.9155 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:08:40.8634 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:08:46.2342 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:08:46.4876 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 13:08:50.5471 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+InventorySpellDisplay.Awake () (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:26)
+UnityEngine.GameObject:SetActive(Boolean)
+UIManager:Update() (at Assets/Scripts/Player/UI/UIManager.cs:30)
+
+2020-04-13 13:08:50.5481 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+InventorySpellDisplay.Awake () (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:26)
+UnityEngine.GameObject:SetActive(Boolean)
+UIManager:Update() (at Assets/Scripts/Player/UI/UIManager.cs:30)
+
+2020-04-13 13:08:50.5491 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+InventorySpellDisplay.Awake () (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:26)
+UnityEngine.GameObject:SetActive(Boolean)
+UIManager:Update() (at Assets/Scripts/Player/UI/UIManager.cs:30)
+
+2020-04-13 13:08:50.5501 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+InventorySpellDisplay.Awake () (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:26)
+UnityEngine.GameObject:SetActive(Boolean)
+UIManager:Update() (at Assets/Scripts/Player/UI/UIManager.cs:30)
+
+2020-04-13 13:08:52.9929 [DEBUG] Play mode: False
+2020-04-13 13:09:34.4147 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:09:34.6920 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 13:09:52.7177 [DEBUG] Play mode: False
+2020-04-13 13:10:03.2299 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:10:03.5201 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 13:10:22.7964 [DEBUG] Play mode: False
+2020-04-13 13:11:34.7231 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:11:38.8843 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:11:39.1476 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 13:11:55.9791 [DEBUG] Play mode: False
+2020-04-13 13:12:51.0700 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:12:55.5097 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 13:12:55.7727 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 13:13:08.6166 [DEBUG] Play mode: False
+2020-04-13 13:53:10.6294 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:00:23.7331 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:00:36.0986 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:00:36.3775 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 14:00:49.6915 [DEBUG] Play mode: False
+2020-04-13 14:02:04.0713 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:02:52.8237 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:05:08.1170 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:06:42.7518 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:07:13.7617 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:07:43.2387 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:08:58.6370 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:09:34.6462 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:09:47.0016 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:09:47.2500 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 14:10:09.0522 [DEBUG] Play mode: False
+2020-04-13 14:10:22.9386 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:10:43.4962 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:10:43.7920 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 14:11:16.7786 [DEBUG] Play mode: False
+2020-04-13 14:13:17.3215 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:13:29.1238 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:20:19.7250 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:23:28.8828 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:26:21.8902 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:26:26.0756 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:26:26.3346 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 14:26:39.1628 [DEBUG] Play mode: False
+2020-04-13 14:26:47.3419 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:26:47.6431 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 14:27:00.1285 [DEBUG] Play mode: False
+2020-04-13 14:27:58.8974 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:44:20.8094 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:58:11.0732 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 14:58:56.5601 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:03:24.9406 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:03:25.1789 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:10:43.2522 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+InventorySpellDisplay.LearnSpell (Spell spell) (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:79)
+InventorySpellDisplay.Learn () (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:51)
+InventorySpellDisplay.<Awake>b__14_0 () (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:28)
+UnityEngine.Events.InvokableCall.Invoke () (at <58a34b0a618d424bb5fc18bb9bcdac20>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <58a34b0a618d424bb5fc18bb9bcdac20>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-04-13 15:10:46.0381 [DEBUG] Play mode: False
+2020-04-13 15:11:18.2876 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:11:18.5688 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:11:33.7887 [DEBUG] Play mode: False
+2020-04-13 15:12:46.0383 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:12:51.4128 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:12:51.6761 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:13:09.7075 [DEBUG] Play mode: False
+2020-04-13 15:18:59.1208 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:19:12.9135 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:20:22.6769 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:21:06.2174 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:21:47.7044 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:25:52.6246 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:27:23.8191 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:27:24.0824 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:27:33.9557 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+InventorySpellDisplay.AssignPopup () (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:65)
+InventorySpellDisplay.<Awake>b__16_1 () (at Assets/Scripts/Player/UI/InventorySpellDisplay.cs:32)
+UnityEngine.Events.InvokableCall.Invoke () (at <58a34b0a618d424bb5fc18bb9bcdac20>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <58a34b0a618d424bb5fc18bb9bcdac20>:0)
+UnityEngine.UI.Button.Press () (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:68)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs:110)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:50)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/ExecuteEvents.cs:261)
+UnityEngine.EventSystems.EventSystem:Update() (at C:/Program Files/Unity/Hub/Editor/2019.3.5f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs:377)
+
+2020-04-13 15:27:39.3310 [DEBUG] Play mode: False
+2020-04-13 15:27:53.1393 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:27:53.4096 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:28:13.3361 [DEBUG] Play mode: False
+2020-04-13 15:28:25.7719 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:28:31.1286 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:28:31.4119 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:29:01.7592 [DEBUG] Play mode: False
+2020-04-13 15:29:12.4588 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:29:12.7807 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:30:18.6132 [DEBUG] Play mode: False
+2020-04-13 15:32:17.5153 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:32:17.7875 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:32:36.2384 [DEBUG] Play mode: False
+2020-04-13 15:32:39.6225 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:32:39.9236 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:33:11.9620 [DEBUG] Play mode: False
+2020-04-13 15:34:22.3640 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:34:26.3173 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:34:26.5462 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:35:30.0773 [DEBUG] Play mode: False
+2020-04-13 15:35:40.3201 [DEBUG] Scene Fusion version 1.8.7-0
+2020-04-13 15:35:40.5852 [DEBUG] Play mode: True, sync in play mode: True
+2020-04-13 15:36:07.2187 [DEBUG] Play mode: False
