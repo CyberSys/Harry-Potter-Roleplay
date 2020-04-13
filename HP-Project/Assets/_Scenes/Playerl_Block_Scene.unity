@@ -7068,6 +7068,11 @@ PrefabInstance:
       propertyPath: m_ShadowVariant
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 9167273595640968870, guid: 3b81ca4a73cd0e04ba461f73747f0555,
+        type: 3}
+      propertyPath: m_Version
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3b81ca4a73cd0e04ba461f73747f0555, type: 3}
 --- !u!1 &1279786955
@@ -12753,7 +12758,7 @@ PrefabInstance:
     - target: {fileID: 7745025993645590303, guid: 690a872c0e5c23749b509b5176ecca1c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.341
       objectReference: {fileID: 0}
     - target: {fileID: 7745025993645590303, guid: 690a872c0e5c23749b509b5176ecca1c,
         type: 3}
